@@ -8,7 +8,7 @@ programming-basics-journey/│
 
 ├── cpp-basics-projects/ → Projects for functionalprogramming, C++ syntax and logic
 
-├── oop-basics-projects/ → Projects focused on Object-Oriented Programming
+├── cpp-OOP-projects/ → Projects focused on Object-Oriented Programming
 
 ├── data-structure-projects/ → Implementations of common data structures
 
