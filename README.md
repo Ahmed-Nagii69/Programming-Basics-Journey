@@ -10,7 +10,7 @@ programming-basics-journey/│
 
 ├── cpp-OOP-projects/ → Projects focused on Object-Oriented Programming
 
-├── data-structure-projects/ → Implementations of common data structures
+├── data-structure-projects/ → Implementations of common data structures [In Progress]
 
 └── README.md → This file
 
